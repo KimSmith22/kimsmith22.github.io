@@ -1,0 +1,79 @@
+/* *************************
+    Global CSS Definitions
+   ************************* */
+body {
+  background-color: #fff;
+}
+
+#pointer {
+  cursor: pointer;
+}
+
+a {
+  color: #fff;
+  text-decoration: none;
+}
+
+#myNavbar li a {
+  color: darkblue;
+  font-weight: 900;
+  font-size: 20px;
+}
+
+/* *************************
+    Bootstrap Overrides
+  ************************* */
+.navbar-default {
+  opacity: 1;
+}
+
+
+
+
+
+/* *************************
+    index page css
+   ************************* */
+
+#home {
+ height: 800px;
+ width: 1440px;
+ background-image: url('img/team.jpg');
+ background-repeat: no-repeat;
+ background-size: cover;
+}
+
+#fundamentals {
+ height: 800px;
+ width: 1440px;
+ background-image: url('img/ball.png');
+ background-repeat: no-repeat;
+ background-size: cover;
+ color: white;
+ font-weight: 900;
+ padding-top: 15%;
+ padding-left: 3%;
+}
+
+
+#stats {
+ height: 800px;
+ width: 1440px;
+ background-image: url('img/field.jpg');
+ background-repeat: no-repeat;
+ background-size: cover;
+ color: white;
+ font-weight: 900;
+ padding-top: 5%;
+}
+
+.standings {
+  padding: 3%;
+}
+
+#newsletter {
+ height: 600px;
+ width: 1440px;
+ background-color: darkblue;
+
+}
