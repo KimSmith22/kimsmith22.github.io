@@ -252,7 +252,7 @@ a {
   clear: both;
 }
 
-/* Create four equal columns that floats next to eachother */
+/* Create four equal columns that floats next to each other */
 .column {
   float: left;
   width: 25%;
@@ -263,7 +263,7 @@ a {
   display: none;
   position: fixed;
   z-index: 1;
-  padding-top: 100px;
+  padding-top: 260px;
   left: 0;
   top: 0;
   width: 100%;
@@ -278,7 +278,7 @@ a {
   background-color: #fefefe;
   margin: auto;
   padding: 0;
-  width: 90%;
+  width: 50%;
   max-width: 1200px;
 }
 
@@ -290,6 +290,7 @@ a {
   right: 25px;
   font-size: 35px;
   font-weight: bold;
+  padding-top: 230px;
 }
 
 .close:hover,
